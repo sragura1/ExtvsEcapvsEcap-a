@@ -5,8 +5,8 @@ This repository contains MATLAB scripts for analyzing:
 2. Dimple size distribution from fractography images.
 
 ## Repository Structure
-- **PrecipitateFraction/**: Scripts and sample images for precipitate fraction analysis.
-- **DimpleSize/**: Scripts and sample images for dimple size analysis.
+- **Precipitate_Fraction/**: Scripts and sample images for precipitate fraction analysis.
+- **Dimple_Analyses/**: Scripts and sample images for dimple size analysis.
 
 ## Getting Started
 1. Clone this repository:
